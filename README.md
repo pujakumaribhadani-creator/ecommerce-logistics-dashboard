@@ -4,7 +4,7 @@ An interactive **E-commerce Logistics Analytics Dashboard** built with Python, P
 
 ## 🚀 Live Dashboard
 
-🔗 **Streamlit App:** [[Add your Live Streamlit Link]](https://ecommerce-logistics-dashboard-hyl8abwuvyfebtpxaqhsed.streamlit.app/)
+🔗 **Streamlit App:** (https://ecommerce-logistics-dashboard-hyl8abwuvyfebtpxaqhsed.streamlit.app/)
 
 ---
 
